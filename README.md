@@ -1,6 +1,22 @@
- Hi, I'm Saharsh Kamod Koli, currently pursuing my Master’s in Data Analytics Engineering. Welcome to my GitHub!
+Data Analytics & Engineering Enthusiast | Turning Raw Data into Insightful Stories
 
-This space features projects where I explore and implement data analysis techniques, integrate NLP, build machine learning models, and create impactful visualizations. 
-I’m passionate about uncovering insights through data and am committed to developing both prescriptive and descriptive analytical reports that drive better decision-making.
+I’m a data analyst with a strong foundation in Python, SQL, Tableau, and cloud platforms, focused on transforming complex datasets into clear, actionable insights. My work spans data cleaning, analysis, visualization, and pipeline thinking—bridging technical execution with business understanding.
 
-Excited to keep learning, collaborating, and building solutions that leverage the power of data!
+This profile features hands-on projects centered around interactive Tableau dashboards, including Netflix content analysis, global population trends, world health indicators, and COVID-19 data. Each project emphasizes data storytelling, exploratory analysis, and decision-focused visualization rather than static reporting.
+
+I’m particularly interested in:
+
+Analytics-driven decision making
+
+Dashboard design & data storytelling
+
+Data engineering fundamentals (ETL, data modeling)
+
+Real-world datasets across health, media, and public data
+
+Currently building skills at the intersection of analytics, systems, and strategy, with a mindset of continuous learning and practical impact.
+
+📊 Tools: Python | SQL | Tableau | Excel | Pandas | Cloud (AWS/GCP)
+📌 Focus: Analytics • Visualization • Data Systems • Insight Delivery
+
+Always open to collaboration, feedback, and meaningful data conversations.
