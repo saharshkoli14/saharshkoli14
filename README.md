@@ -1,22 +1,26 @@
-Data Analytics & Engineering Enthusiast | Turning Raw Data into Insightful Stories
+Data Analytics & Engineering | Applied ML & Data Systems
 
-I’m a data analyst with a strong foundation in Python, SQL, Tableau, and cloud platforms, focused on transforming complex datasets into clear, actionable insights. My work spans data cleaning, analysis, visualization, and pipeline thinking—bridging technical execution with business understanding.
+I’m a data analytics and data engineering practitioner with hands-on experience building end-to-end data solutions—from raw data ingestion and analysis to visualization and intelligent systems. My work focuses on solving real-world problems using Python, SQL, Tableau, and cloud-native tools, with an emphasis on clarity, scalability, and impact.
 
-This profile features hands-on projects centered around interactive Tableau dashboards, including Netflix content analysis, global population trends, world health indicators, and COVID-19 data. Each project emphasizes data storytelling, exploratory analysis, and decision-focused visualization rather than static reporting.
+This GitHub showcases a range of applied projects, including:
 
-I’m particularly interested in:
+Interactive Tableau dashboards (Netflix analytics, global population, world health, COVID-19) focused on exploratory analysis and data storytelling.
 
-Analytics-driven decision making
+An ATC (Air Traffic Control) analytics project, working with structured data to extract patterns, improve decision support, and simulate operational insights.
 
-Dashboard design & data storytelling
+A Financial Chatbot project leveraging NLP and ML techniques to enable question-answering over financial datasets, bridging analytics with intelligent user interaction.
 
-Data engineering fundamentals (ETL, data modeling)
+Across projects, I emphasize:
 
-Real-world datasets across health, media, and public data
+Clean data modeling & transformation
 
-Currently building skills at the intersection of analytics, systems, and strategy, with a mindset of continuous learning and practical impact.
+Insight-driven analytics and visualization
 
-📊 Tools: Python | SQL | Tableau | Excel | Pandas | Cloud (AWS/GCP)
-📌 Focus: Analytics • Visualization • Data Systems • Insight Delivery
+ML/NLP-powered systems for decision support
 
-Always open to collaboration, feedback, and meaningful data conversations.
+Practical, production-minded problem solving
+
+📊 Tech Stack: Python | SQL | Tableau | Excel | Pandas | NumPy | NLP | ML | AWS | GCP
+🎯 Interests: Analytics Engineering • Data Systems • Visualization • Applied ML • Automation
+
+Always learning, building, and refining—open to collaboration and real-world data challenges.
