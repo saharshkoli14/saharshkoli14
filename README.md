@@ -1,26 +1,19 @@
-Data Analytics & Engineering | Applied ML & Data Systems
+👋 Hello! Welcome to my GitHub.
 
-I’m a data analytics and data engineering practitioner with hands-on experience building end-to-end data solutions—from raw data ingestion and analysis to visualization and intelligent systems. My work focuses on solving real-world problems using Python, SQL, Tableau, and cloud-native tools, with an emphasis on clarity, scalability, and impact.
+I’m a Data Analytics and Data Engineering practitioner with hands-on experience building end-to-end data solutions — from raw data ingestion and analysis to dashboards and intelligent, ML-powered systems. I enjoy turning messy, real-world data into clear insights and scalable solutions that support better decision-making.
 
-This GitHub showcases a range of applied projects, including:
+🔍 What you’ll find here:
+• Interactive Tableau dashboards (Netflix analytics, global population, world health, COVID-19) focused on exploratory analysis and data storytelling  
+• An Air Traffic Control (ATC) analytics project working with structured data to uncover patterns and simulate operational insights  
+• A Financial Chatbot leveraging NLP and ML to enable natural language question-answering over financial datasets  
 
-Interactive Tableau dashboards (Netflix analytics, global population, world health, COVID-19) focused on exploratory analysis and data storytelling.
+🧠 Across my projects, I focus on:
+✔ Clean data modeling and transformation  
+✔ Insight-driven analytics and visualization  
+✔ ML/NLP-powered systems for decision support  
+✔ Practical, production-minded problem solving  
 
-An ATC (Air Traffic Control) analytics project, working with structured data to extract patterns, improve decision support, and simulate operational insights.
+🛠 Tech Stack: Python | SQL | Tableau | Excel | Pandas | NumPy | NLP | ML | AWS | GCP  
+🎯 Interests: Analytics Engineering • Data Systems • Visualization • Applied ML • Automation  
 
-A Financial Chatbot project leveraging NLP and ML techniques to enable question-answering over financial datasets, bridging analytics with intelligent user interaction.
-
-Across projects, I emphasize:
-
-Clean data modeling & transformation
-
-Insight-driven analytics and visualization
-
-ML/NLP-powered systems for decision support
-
-Practical, production-minded problem solving
-
-📊 Tech Stack: Python | SQL | Tableau | Excel | Pandas | NumPy | NLP | ML | AWS | GCP
-🎯 Interests: Analytics Engineering • Data Systems • Visualization • Applied ML • Automation
-
-Always learning, building, and refining—open to collaboration and real-world data challenges.
+Always learning, building, and refining — and open to collaboration on meaningful, real-world data challenges.
